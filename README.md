@@ -1,0 +1,3 @@
+This is a real-time multiplayer chess game built using JavaScript, Socket.io, and Express.js. Players can join a room, get assigned a color (white/black), and make moves that sync instantly with their opponent. Key Features: ♟️ Real-time Gameplay – Moves are updated live using WebSockets. ♟️ Room-Based Matching – Players join rooms to play against each other. ♟️ Turn-Based Logic – Ensures only valid moves are played. ♟️ Game State Management – Tracks player connections and game progress. ♟️ Basic UI for Interaction – Simple interface for making and displaying moves.
+
+Built with Express.js (server-side), Socket.io (real-time communication), and Chess.js (game logic). 🚀
